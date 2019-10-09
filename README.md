@@ -13,10 +13,10 @@ pip install django
 ## Note
 It is suggested to use a virtual environment before installing all the libraries.
 ```bash
-pip install virtualenv
+pip3 install virtualenv
 ``` 
 ```bash
-virtualenv env
+virtualenv env[name of your environment]
 ``` 
 
 ## Contributing
